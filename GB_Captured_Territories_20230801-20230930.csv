@@ -1,0 +1,743 @@
+dedup_territory_name,territory_country,territory_latitude,territory_longitude,count
+Ironhold,GB,53.2,0.4,12
+Fortress of the North,GB,58.4,-6.7,5
+Southam,GB,52.2,-1.4,12
+Orkney (3),GB,59.1,-3.2,1
+Chippenham (2),GB,51.5,-2.1,6
+New Britannia (17),GB,55.6,-1.6,7
+Abergavenny,GB,51.9,-2.9,11
+Devizes,GB,51.3,-2,6
+The Fortress of Frost,GB,58.6,-4.4,3
+Abergele,GB,53.2,-3.7,6
+Butterwick,GB,53,0.1,1
+Bury Saint Edmunds (2),GB,52.4,0.4,12
+Welton,GB,53.7,-0.6,3
+Norfolk's Echo,GB,53,0.7,1
+Welshpool,GB,52.6,-3.1,13
+High Halden,GB,51.1,0.7,3
+Haddington,GB,56,-2.7,7
+Hayle,GB,50.2,-5.4,2
+Sheffield,GB,53.4,-1.4,16
+Caledonia,GB,56,-2.3,5
+Kidlington,GB,51.9,-1.2,2
+Salisbury (3),GB,51.1,-1.6,9
+Acharacle (3),GB,56.7,-5.7,2
+Castlewellan,GB,54.3,-6.1,1
+Thetford,GB,52.4,0.9,7
+Cwmbran,GB,51.7,-3,25
+Morpeth (3),GB,55.4,-2.2,12
+Jedburgh,GB,55.4,-2.4,5
+Chepstow,GB,51.7,-2.8,8
+Luton,GB,51.9,-0.3,16
+Halifax,GB,53.7,-1.8,10
+Hull (2),GB,53.9,-0.2,3
+Leominster (2),GB,52.2,-2.7,6
+Inveraray,GB,56.2,-5.2,2
+Westonzoyland,GB,51.1,-2.9,8
+Leek,GB,53.2,-2,10
+Bury Saint Edmunds,GB,52.2,0.7,8
+Phoenix Peaks,GB,57.1,-7.5,1
+Kirknewton,GB,55.8,-3.5,9
+Leeds,GB,53.9,-1.5,7
+Mindrum,GB,55.6,-2.3,3
+Aylesbury,GB,51.9,-1,7
+The Silent Isle,GB,54.7,-1.3,4
+Duns (2),GB,55.8,-2.4,6
+Gretna,GB,55,-3,1
+Ulverston (2),GB,54.3,-3,1
+Clitheroe,GB,53.9,-2.4,4
+Crieff,GB,56.3,-4.2,2
+Daventry,GB,52.2,-1.2,6
+New Britannia (6),GB,51.3,-2.6,13
+Ely,GB,52.4,0.2,10
+Debenham,GB,52.2,1.2,11
+Sutton Coldfield,GB,52.6,-1.8,24
+Crumlin,GB,54.7,-6.3,1
+Exeter,GB,50.7,-3.8,2
+Peterborough,GB,52.6,-0.3,8
+The Breathing Isle,GB,60.6,-1.3,7
+Huntingdon (2),GB,52.4,0,6
+Stornoway,GB,58.2,-6.4,2
+Blakedown,GB,52.4,-2.2,11
+Leominster,GB,52.2,-2.9,4
+Swindon,GB,51.5,-1.8,5
+Chippenham,GB,51.5,-2.3,5
+Spilsby,GB,53.2,0,5
+Fortress of High Hills,GB,56.2,-2.6,6
+New Britannia (13),GB,53,1.2,7
+Winkleigh,GB,50.9,-4.1,3
+Retford,GB,53.4,-0.8,2
+Northampton,GB,52.2,-0.8,7
+Thetford (2),GB,52.6,1,13
+Sleaford,GB,53,-0.3,3
+Keswick (2),GB,54.7,-3,2
+Chester-le-Street,GB,54.8,-1.6,7
+Cumnock,GB,55.4,-4.3,1
+Aberystwyth,GB,52.4,-3.9,5
+Reading (2),GB,51.5,-1,5
+Kidderminster,GB,52.4,-2.6,14
+Market Rasen (2),GB,53.4,-0.3,2
+Lincoln,GB,53.2,-0.7,4
+Milton-under-Wychwood,GB,51.9,-1.6,4
+Stirling (2),GB,56.2,-4.3,2
+New Britannia (3),GB,50.7,-0.3,6
+Grey Stone Fields,GB,57.7,-6.5,3
+Newark (2),GB,53.2,-0.9,2
+Epworth,GB,53.5,-0.9,4
+Carlisle (2),GB,55,-2.8,4
+Tunbridge Wells,GB,51.1,0.3,14
+Stafford,GB,52.8,-2.2,13
+Bridgend,GB,51.5,-3.6,3
+Brechin,GB,56.7,-2.7,2
+Dunbar,GB,56,-2.5,5
+The Highland Ruins,GB,56,-4,2
+Scarborough,GB,54.3,-0.4,3
+York (4),GB,54.1,-1.2,1
+Edenfall,GB,50,-5.5,5
+Lisburn,GB,54.5,-5.9,5
+York (3),GB,54.1,-1.4,1
+Mitcheldean,GB,51.9,-2.5,7
+Sherborne Saint John,GB,51.3,-1.1,2
+Llandrindod Wells,GB,52.2,-3.6,1
+Ballymena,GB,55,-6.3,4
+Crianlarich,GB,56.3,-4.7,3
+Kelty,GB,56.2,-3.5,4
+Llandeilo,GB,51.9,-4,1
+Stirling (4),GB,56.2,-3.9,3
+Albion Revived,GB,50.2,-3.7,10
+Morpeth,GB,55.2,-1.8,4
+Sandbach,GB,53.2,-2.4,5
+Swaffham,GB,52.6,0.7,6
+Kingsbridge,GB,50.4,-3.8,4
+Cymmer,GB,51.7,-3.7,2
+Braunton,GB,51.1,-4.2,1
+Alnwick,GB,55.4,-2,2
+Ballymoney,GB,55,-6.5,3
+Pewsey,GB,51.3,-1.7,4
+New Britannia (12),GB,53,0.3,2
+The Isles of the Lost,GB,50.5,-2.2,3
+Lochan Ceo,GB,56.2,-5.6,2
+Renegade Haven,GB,57.1,-2.1,1
+Alresford,GB,51.1,-1.2,4
+Stokesley,GB,54.5,-1.2,1
+Taynuilt,GB,56.3,-5.3,3
+Empire's End,GB,50.7,-0.6,5
+Nuneaton,GB,52.6,-1.4,5
+Britannia's Last Stand,GB,50.2,-5.6,5
+New Albion (3),GB,51.3,-3.7,4
+Whitland,GB,51.9,-4.7,1
+Brampton,GB,54.8,-2.7,1
+Exeter (2),GB,50.7,-3.6,2
+Enniskillen (3),GB,54.3,-7.3,1
+Stowmarket,GB,52.2,1,7
+Deòrsa,GB,57.8,-6.6,2
+Alexandria,GB,56.2,-4.8,3
+Biggar (4),GB,55.6,-3.4,1
+Ashen Glen,GB,60.1,-1.4,1
+Clarbeston Road,GB,51.9,-4.9,1
+Fowey,GB,50.4,-4.7,2
+Ballycastle,GB,55.2,-6.4,1
+Omagh (2),GB,54.7,-7.3,2
+Inveraray (2),GB,56.3,-4.9,3
+Tighnabruaich,GB,56,-5.3,1
+Gaelica,GB,58.6,-5.1,1
+The New Kingdom,GB,55.2,-1.4,1
+Dunkeld (2),GB,56.5,-3.7,3
+Lairg (10),GB,58.4,-5,1
+Grey Haven,GB,54.7,-5.8,1
+Eden's Cove,GB,50.5,-3.5,2
+North Anston,GB,53.4,-1.2,3
+Thirsk,GB,54.3,-1.3,1
+Aberaeron,GB,52.2,-4.2,1
+York,GB,53.9,-0.9,1
+New Albion (5),GB,54.7,-3.7,1
+Leyburn (2),GB,54.3,-1.7,1
+Dunoon,GB,56,-5.1,1
+New Scotia (2),GB,58.6,-4.7,1
+Poole,GB,50.7,-2.1,1
+Wigton (2),GB,54.8,-3.1,1
+Gorebridge,GB,55.8,-3,13
+Cranbrook,GB,51.1,0.5,2
+South Queensferry,GB,56,-3.4,2
+Crickhowell,GB,51.9,-3.1,14
+Newtown,GB,52.6,-3.4,9
+Yeovil,GB,50.9,-2.6,5
+Woodbridge,GB,52.2,1.4,16
+Kearsley,GB,53.5,-2.4,21
+Shrewsbury,GB,52.6,-2.9,17
+Ash,GB,51.3,1.3,15
+Cursed Highlands,GB,56.3,-2.7,3
+Rossendale,GB,53.7,-2.3,14
+Shawbury,GB,52.8,-2.6,14
+Aldbourne,GB,51.5,-1.6,11
+Broseley,GB,52.6,-2.5,22
+Isle of Echoes,GB,51.9,1.4,19
+New Avalon (2),GB,50.7,-1.2,8
+Southampton,GB,50.9,-1.3,12
+Norwich (3),GB,52.8,1.1,8
+Newbury,GB,51.5,-1.4,15
+Cockermouth,GB,54.7,-3.2,1
+Fakenham,GB,52.8,0.9,13
+Caledonia's Crest,GB,56.7,-2.3,4
+Lewes (2),GB,50.9,0.2,13
+Bridport,GB,50.7,-2.7,17
+Solihull,GB,52.4,-1.7,15
+Malton (2),GB,54.1,-0.6,6
+Omagh,GB,54.5,-7.5,2
+Hawkinge,GB,51.1,1.2,8
+Bewdley,GB,52.4,-2.4,12
+Lochgelly,GB,56.2,-3.2,6
+Newcastle upon Tyne (3),GB,55.2,-2.1,4
+Grey Fortress,GB,50.7,0.5,8
+Newport (2),GB,52.8,-2.4,21
+Neu Cymru,GB,53.4,-3.4,6
+Y Ddraig Goch's Roar,GB,52.4,-4.1,1
+Barnard Castle (2),GB,54.7,-2.2,2
+Stamford,GB,52.6,-0.6,9
+Radstock,GB,51.3,-2.4,14
+Sedbergh,GB,54.3,-2.4,2
+Grayshott,GB,51.1,-0.8,4
+Sudbury (2),GB,52,0.9,31
+The Red Lion's Expanse,GB,55.4,-1.5,3
+Hambledon,GB,50.9,-1.1,13
+Todmorden,GB,53.7,-2.1,1
+Northampton (2),GB,52.4,-1.1,9
+Baschurch,GB,52.8,-2.8,16
+Forbidden Kingdom,GB,51.5,1.2,14
+Woking,GB,51.3,-0.4,5
+Petworth,GB,50.9,-0.7,6
+Britannian Wasteland,GB,54.1,-0.1,3
+Rugby,GB,52.4,-1.3,15
+Lochailort,GB,56.9,-5.6,1
+Llanelli,GB,51.7,-4.1,6
+New Avalon,GB,50.5,-1.1,9
+Royston,GB,52,0,14
+King's Lynn,GB,52.6,0.5,5
+Llanfairpwllgwyngyll,GB,53.2,-4.3,3
+Loughborough,GB,52.8,-1.3,14
+Wymeswold,GB,52.8,-1.1,2
+Newcastle upon Tyne,GB,55,-2,1
+Driffield,GB,53.9,-0.4,3
+Penpedairheol,GB,51.7,-3.2,7
+Langholm,GB,55.2,-3.1,2
+Hethersett,GB,52.6,1.2,4
+Battle,GB,50.9,0.4,13
+Kettering (2),GB,52.4,-0.4,10
+Andover,GB,51.3,-1.5,14
+Waverton,GB,53.2,-2.8,8
+Glastonbury,GB,51.1,-2.7,7
+Whitchurch (2),GB,53,-2.7,8
+New Britannia (4),GB,50.7,0.3,7
+Salisbury,GB,51.1,-2.1,7
+High Legh,GB,53.4,-2.5,5
+Brandon,GB,52.4,0.6,21
+Ilkeston,GB,53,-1.4,7
+Forres (2),GB,57.7,-3.7,2
+Blairgowrie (3),GB,56.7,-3.4,1
+Caledonia Wastelands,GB,55.6,-5.7,3
+Wilmslow,GB,53.4,-2.3,5
+Ballindalloch (2),GB,57.3,-3.2,2
+Ilkley,GB,53.9,-1.7,6
+Dunkeld,GB,56.5,-3.9,4
+Crieff (3),GB,56.3,-3.8,4
+Mere,GB,51.1,-2.3,3
+Berwick-upon-Tweed,GB,55.8,-2.2,2
+Ayr (3),GB,55.4,-4.5,2
+Milton Keynes,GB,52,-0.9,13
+Northampton (3),GB,52.4,-0.9,9
+Norwich (5),GB,52.8,1.5,8
+Richmond,GB,54.5,-2.1,2
+Ferndale,GB,51.7,-3.5,7
+Longniddry,GB,56,-2.9,3
+Huntingdon,GB,52.4,-0.2,3
+Tenby,GB,51.7,-4.8,1
+Downpatrick,GB,54.3,-5.8,3
+Godalming,GB,51.1,-0.6,8
+Cheltenham,GB,51.9,-2.1,3
+Avalonia,GB,50,-5.7,9
+Stock,GB,51.7,0.4,13
+Pembroke,GB,51.7,-5,1
+Whitby,GB,54.5,-1,2
+Cardiff,GB,51.5,-3.1,6
+Aylesbury (2),GB,51.9,-0.8,4
+Preston (3),GB,53.9,-2.6,4
+Bridgwater,GB,51.1,-3.1,3
+The Silent Strath,GB,55.2,-5.9,4
+Brampton (2),GB,54.8,-2.5,1
+New Cardiff,GB,51.7,-5.2,1
+King's Lynn (3),GB,52.8,0.6,4
+Arisaig,GB,56.9,-5.8,2
+Safe Haven,GB,53,1,3
+Larne,GB,54.8,-5.9,4
+Lochgilphead (2),GB,56.2,-5.4,2
+Shetland (5),GB,60.5,-1.2,5
+Awenydd's Refuge,GB,51.9,-5.3,3
+The Sanctuary (2),GB,58.6,-3.8,1
+Runcorn,GB,53.4,-2.7,3
+Hallow,GB,52.2,-2.3,2
+Watton at Stone,GB,51.9,-0.1,3
+Watchet,GB,51.1,-3.4,1
+New Britannia (11),GB,52.2,-0.6,2
+Shetland (3),GB,60.3,-1.3,1
+Wooler,GB,55.6,-2.1,3
+Driffield (2),GB,54.1,-0.3,1
+The Fractured Isle,GB,51.3,-3,3
+Nairn,GB,57.5,-4,1
+The Gaelic Holds,GB,58.6,-4,1
+Holsworthy,GB,50.9,-4.3,2
+Coastline Solace,GB,55.8,-5.6,4
+Nant Yr Arian,GB,52,-5,1
+Saint Austell,GB,50.4,-4.9,6
+Newry,GB,54.1,-6.6,1
+Plymouth,GB,50.4,-4,1
+Yarm,GB,54.5,-1.4,3
+Magherafelt,GB,54.7,-6.7,1
+The Sanctuary (3),GB,60.6,-1.5,3
+Ulverston,GB,54.1,-3.1,1
+Canterbury,GB,51.3,1.1,5
+Melton Mowbray,GB,52.8,-0.9,3
+Northallerton,GB,54.3,-1.5,2
+Blairgowrie (2),GB,56.7,-3.6,2
+Gaelic Haven (2),GB,55.8,-6.1,1
+Halton,GB,54.1,-2.7,1
+Vespera,GB,55,-1.5,2
+Skipton,GB,54.1,-2.1,1
+Oakham,GB,52.6,-0.8,1
+Bristol,GB,51.5,-2.5,2
+Isle of Benbecula,GB,57.5,-7.2,1
+York (6),GB,54.3,-1.1,1
+Barnard Castle,GB,54.7,-2.4,1
+Highland Sanctuary,GB,56,-4.2,1
+Ballymena (2),GB,55,-6.1,1
+Castlederg,GB,54.7,-7.8,1
+Eaton Bray,GB,51.9,-0.6,16
+Strabane (2),GB,54.8,-7.2,4
+Slough,GB,51.5,-0.6,11
+Kislingbury,GB,52.2,-1,7
+Market Rasen (3),GB,53.5,-0.4,6
+Grantham,GB,52.8,-0.7,11
+Dodworth,GB,53.5,-1.5,15
+Bedford,GB,52,-0.4,10
+Ashford,GB,51.1,1,11
+Newcastle,GB,53,-2.3,11
+Emerald Vale,GB,50.2,-4.8,9
+Bishop Auckland (2),GB,54.7,-1.7,16
+London (2),GB,51.5,0.1,42
+Alcester,GB,52.2,-1.8,16
+Holmfirth,GB,53.5,-1.7,3
+Colchester,GB,51.9,0.7,35
+Sudbury,GB,52,0.6,23
+Grays,GB,51.5,0.3,15
+Bishop Auckland,GB,54.7,-2,3
+King's Lynn (2),GB,52.8,0.4,5
+Kingdom of Silent Shadows,GB,60.5,-1,12
+Pirbright,GB,51.3,-0.7,13
+Abingdon,GB,51.7,-1.3,8
+Melrose,GB,55.6,-2.7,7
+Taynuilt (3),GB,56.5,-5,3
+Totton,GB,50.9,-1.5,11
+Crewe,GB,53,-2.5,13
+Uttoxeter,GB,53,-1.8,10
+Gaelic Highland,GB,56.3,-2.5,5
+Bromyard,GB,52.2,-2.5,6
+Leicester,GB,52.6,-1.2,7
+Mold,GB,53.2,-3.2,11
+High Wycombe,GB,51.7,-0.9,5
+Wivenhoe,GB,51.9,1,23
+Wetherby,GB,53.9,-1.3,7
+Irvine,GB,55.6,-4.7,2
+Alnwick (2),GB,55.4,-1.7,5
+Barton on Sea,GB,50.7,-1.6,8
+Much Hadham,GB,51.9,0.1,18
+Perth (2),GB,56.3,-3.4,6
+The Silent Isles,GB,53,1.4,6
+Penrith (3),GB,54.7,-2.8,11
+Southminster,GB,51.7,0.9,18
+The Sanctuary,GB,52,-0.7,9
+Bangor (3),GB,54.7,-5.6,1
+Forres,GB,57.5,-3.6,3
+Crieff (2),GB,56.3,-4,2
+Silsden,GB,53.9,-2,3
+New Britannia (9),GB,51.5,1.4,18
+Kessingland,GB,52.4,1.7,7
+Methley,GB,53.7,-1.4,10
+Aberfeldy,GB,56.5,-4.5,3
+New Britannia (10),GB,51.7,1.1,24
+Enniskillen (2),GB,54.3,-7.6,2
+Tetbury,GB,51.7,-2.2,7
+Looe,GB,50.4,-4.4,1
+Ince-in-Makerfield,GB,53.5,-2.6,11
+Y Ddraig Goch's Haven,GB,51.3,-3.2,7
+Aberdare,GB,51.9,-3.6,7
+Crestfall,GB,56.3,-6.2,2
+Emerald Bastion,GB,57.1,-6.2,1
+New Albion (4),GB,51.3,1.5,9
+Salisbury (2),GB,51.1,-1.8,4
+Sevenoaks,GB,51.3,0.2,13
+Tiverton,GB,50.9,-3.7,3
+Valley of Shadows,GB,51.5,-4.2,1
+Droitwich,GB,52.2,-2.1,9
+The Silent Kingdom,GB,51.5,1,7
+Hartfield,GB,51.1,0.1,6
+Fior,GB,56.2,-2.8,7
+Isle of Mull (2),GB,56.5,-6.3,1
+West Ashton,GB,51.3,-2.2,8
+Beccles,GB,52.4,1.5,9
+Ledbury,GB,52,-2.4,4
+Knighton,GB,52.4,-3.2,8
+Aberfeldy (2),GB,56.5,-4.3,2
+Rogart,GB,58,-4.1,3
+Richmond (3),GB,54.5,-1.6,4
+Norwich (4),GB,52.8,1.3,6
+Kendal,GB,54.3,-2.8,6
+Isle of Lewis (5),GB,58.4,-6.5,2
+Chesterfield (2),GB,53.2,-1.3,5
+Perth (3),GB,56.5,-3.5,2
+Seaham,GB,54.8,-1.4,7
+Downham Market,GB,52.6,0.3,5
+Burton-on-Trent,GB,52.8,-1.7,13
+Llanidloes (2),GB,52.4,-3.5,6
+Chelmsford,GB,51.7,0.6,12
+Isle of Harris,GB,57.8,-6.8,2
+Blandford Forum,GB,50.9,-2.2,4
+Llangollen,GB,53,-3.1,10
+Lockerbie (2),GB,55.2,-3.4,3
+Highland Sanctuary (3),GB,60.8,-1,2
+Dragon's Haven,GB,51.7,-4.3,1
+Rhosgoch,GB,53.4,-4.4,3
+Warwick,GB,52.2,-1.6,5
+Perth,GB,56.3,-3.6,5
+Isle of Lewis,GB,58,-6.5,3
+Spalding (2),GB,52.8,0,3
+New Caledonia (2),GB,56.2,-5.8,1
+Oswestry (3),GB,52.8,-3,6
+Ripon,GB,54.1,-1.6,4
+Fordingbridge,GB,50.9,-1.7,3
+Peterculter,GB,57.1,-2.3,1
+Sutton cum Lound,GB,53.4,-1,1
+Upper Farringdon,GB,51.1,-1,2
+Carnforth,GB,54.3,-2.6,1
+Brackley,GB,52,-1.1,4
+Huntly (2),GB,57.5,-2.9,2
+Louth (2),GB,53.4,0.1,3
+Llangadog,GB,51.9,-3.8,1
+Portree,GB,57.5,-6.4,3
+Lopen,GB,50.9,-2.8,1
+Betws-y-Coed,GB,53,-3.8,3
+Keith,GB,57.5,-3.1,5
+Endurance Peaks,GB,56.3,-5.7,1
+New Britannia,GB,50.2,-3.9,1
+Biggleswade,GB,52,-0.2,8
+Oban,GB,56.3,-5.5,2
+Preston,GB,53.7,-2.7,4
+Campbeltown (2),GB,55.6,-5.5,1
+Gaelic Haven (3),GB,59.1,-2.6,3
+The Fallen Kingdom,GB,54.7,-1.1,2
+Hexham (5),GB,55.2,-2.3,2
+Fallen Britannia,GB,51.3,-3.9,1
+Stirling,GB,56.2,-4.5,2
+Thurstaston,GB,53.4,-3.1,5
+Gloucester,GB,51.9,-2.3,6
+Omagh (3),GB,54.7,-7.1,2
+Oswestry,GB,52.8,-3.5,1
+Penrith (2),GB,54.5,-2.7,2
+Desolation Isles,GB,53.4,0.3,1
+Messingham,GB,53.5,-0.7,3
+Gaelic Ghostland,GB,54.8,-4.9,1
+Kirkby Stephen,GB,54.5,-2.3,1
+Brampton (3),GB,55,-2.6,2
+Isle of Lewis (6),GB,58.4,-6.3,2
+Johnstone,GB,55.8,-4.5,1
+Richmond (2),GB,54.5,-1.8,2
+New Elysium,GB,55,-5.8,3
+Malton,GB,54.1,-0.8,1
+Thornhill,GB,55.2,-4,2
+Armagh (2),GB,54.3,-6.5,1
+Bridge of Orchy,GB,56.5,-4.8,2
+Carmarthen (2),GB,51.9,-4.2,2
+Penrith,GB,54.5,-2.9,1
+Brecon,GB,52,-3.5,1
+Beauly (3),GB,57.3,-4.8,1
+Thornhill (2),GB,55.2,-3.8,1
+Settle,GB,54.1,-2.3,1
+Reading,GB,51.5,-1.2,16
+Kelso,GB,55.6,-2.5,13
+Fogland,GB,54.8,-1.2,1
+Launceston,GB,50.5,-4.5,1
+Lyme Regis,GB,50.7,-2.9,8
+Coventry,GB,52.4,-1.5,7
+Ipswich,GB,52,1.1,32
+Faversham,GB,51.3,0.9,8
+Cairndow,GB,56.2,-5,3
+Hull,GB,53.7,-0.1,4
+Norwich,GB,52.6,1.4,9
+Girton,GB,52.2,0.1,15
+Clun,GB,52.4,-3,2
+Hope Valley,GB,53.4,-1.8,2
+Highland Sanctuary (2),GB,56.2,-3,15
+Dundee (2),GB,56.5,-2.8,6
+Dundee,GB,56.5,-3,7
+Blairgowrie,GB,56.5,-3.2,5
+Dordon,GB,52.6,-1.6,7
+Diss,GB,52.4,1.1,10
+Whitchurch,GB,51.3,-1.3,14
+Callington,GB,50.5,-4.3,2
+Birmingham,GB,52.4,-2,18
+Banbury (2),GB,52,-1.3,10
+Lewes,GB,50.9,0,10
+Sturminster Newton,GB,50.9,-2.4,7
+Newark,GB,53,-0.8,9
+Barnet,GB,51.7,-0.2,16
+River Kingdom,GB,54.7,-0.9,12
+Maidstone,GB,51.3,0.6,6
+Avalon Ruins,GB,50.7,0.1,4
+Great Notley,GB,51.9,0.5,17
+The Lone Isle,GB,50.9,1.1,12
+Craven Arms,GB,52.4,-2.8,6
+Nottingham,GB,53,-1.2,11
+Saffron Walden,GB,52,0.2,31
+Cupar (2),GB,56.3,-2.9,10
+Newry (4),GB,54.1,-5.9,1
+The Silent Highlands (2),GB,60.8,-0.8,6
+Norwich (2),GB,52.6,1.6,12
+Kingswear,GB,50.4,-3.6,10
+Stockport,GB,53.4,-2.1,8
+Knottingley,GB,53.7,-1.2,15
+Maidenhead,GB,51.5,-0.8,12
+Nottingham (2),GB,53,-1,18
+Hope Valley (2),GB,53.4,-1.6,9
+Middleton,GB,53.5,-2.2,2
+Llanbrynmair,GB,52.6,-3.6,2
+Tanglewood,GB,51.7,-2.6,11
+Batley,GB,53.7,-1.6,10
+Chandler's Cross,GB,51.7,-0.4,13
+Isle of Lewis (4),GB,58.2,-6.6,10
+Beaworthy,GB,50.7,-4.2,3
+Ebonshire,GB,50.5,-1.5,10
+Highland Haven,GB,57.3,-6.7,1
+Lauder,GB,55.8,-2.8,8
+Orkney (4),GB,59.1,-3,2
+Chalgrove,GB,51.7,-1.1,11
+Horsham,GB,51.1,-0.3,11
+Newton Abbot,GB,50.5,-3.7,2
+Bay of Resilience,GB,50.9,0.9,6
+Banbury,GB,52,-1.5,14
+North Emerald Outpost,GB,54.8,-6.2,4
+Grimsby,GB,53.5,-0.2,14
+Bale's Keep,GB,58,-6.7,2
+Dorchester (2),GB,50.7,-2.3,9
+Ongar,GB,51.7,0.2,22
+New Britannia (7),GB,51.5,-2.7,5
+Storrington,GB,50.9,-0.4,11
+Redruth,GB,50.2,-5.2,8
+Island of the Stoic Keepers,GB,50.7,-1.4,10
+New Aberystwyth,GB,52.2,-4.7,2
+Leyburn,GB,54.3,-2,1
+Friday Bridge,GB,52.6,0.1,13
+Culgaith,GB,54.7,-2.6,3
+Skegness,GB,53.2,0.2,2
+The Barren Moors of Hibernia,GB,54.3,-5.4,2
+Oswestry (2),GB,52.8,-3.2,4
+London,GB,51.5,-0.1,6
+Wimborne,GB,50.9,-2,2
+New Britannia (2),GB,50.5,-2.6,4
+Tywyn,GB,52.6,-4,2
+Bakewell,GB,53.2,-1.7,3
+Magherafelt (2),GB,54.8,-6.8,3
+Dalmally,GB,56.3,-5.1,2
+Engloria,GB,50.5,-1.3,7
+Thurnscoe,GB,53.5,-1.3,9
+New Britannia (14),GB,53.9,0,7
+Girvan,GB,55,-5,1
+Corwen (2),GB,53,-3.4,4
+Lochgilphead,GB,56,-5.5,2
+Alglen,GB,55.4,-5.8,3
+Magherafelt (3),GB,54.8,-6.6,2
+Caisteal Na Dubh-chlacha,GB,56,-6.4,1
+Pitlochry (2),GB,56.7,-4.2,1
+West Linton,GB,55.8,-3.2,3
+Presteigne,GB,52.2,-3.1,3
+East Malling,GB,51.3,0.4,5
+Llandrindod Wells (2),GB,52.2,-3.4,2
+Chichester,GB,50.9,-0.9,7
+New Avalon (4),GB,51.5,-2.9,1
+New Windsor,GB,50,-5.1,5
+Kilbirnie,GB,55.8,-4.8,1
+Langholm (2),GB,55.2,-2.9,2
+Aberlour,GB,57.5,-3.4,2
+Lincoln (2),GB,53.2,-0.4,2
+Portree (2),GB,57.5,-6.2,2
+Dungannon (3),GB,54.5,-6.6,2
+Kirriemuir,GB,56.7,-3.1,1
+Oban (2),GB,56.5,-5.6,2
+Bodmin,GB,50.5,-4.8,4
+Appleby-in-Westmorland,GB,54.5,-2.5,2
+Stratford,GB,52,-2.2,3
+Greyfall,GB,50.7,-0.8,3
+Blairgowrie (4),GB,56.9,-3.7,2
+Denbigh,GB,53.2,-3.5,2
+Caledonia's Last Stand,GB,57.3,-6.1,3
+Realm of the Broken Crown,GB,53.5,0.2,1
+Kinbrace (2),GB,58.2,-4,1
+Fort William,GB,56.7,-5.3,1
+New Cambria,GB,53.4,-4.2,1
+Mansfield,GB,53.2,-1.1,1
+Ballindalloch,GB,57.3,-3.5,2
+Lost Realm of Albion,GB,50.4,-5.3,2
+Lockerbie,GB,55,-3.2,1
+Drax,GB,53.7,-1,1
+Nethy Bridge,GB,57.3,-3.7,2
+Corwen,GB,53,-3.6,1
+Dolgellau,GB,52.8,-3.9,1
+Hawes,GB,54.3,-2.2,2
+Land of the Brave,GB,57.8,-7,2
+Tiverton (2),GB,50.9,-3.5,1
+Echo Shore,GB,51.5,-4,1
+Fraserburgh,GB,57.7,-2.2,1
+Kettering,GB,52.4,-0.7,1
+Goole,GB,53.7,-0.8,1
+Peebles,GB,55.6,-3.1,1
+Hereford (3),GB,52,-2.6,15
+Bournemouth,GB,50.7,-1.8,8
+Dorchester,GB,50.7,-2.5,6
+Oldham,GB,53.5,-2,15
+Newmarket,GB,52.2,0.5,15
+Swindon (2),GB,51.7,-1.7,4
+Neo-English Islands,GB,52.8,1.7,14
+Isle of Skye,GB,57.1,-5.9,3
+The Slate,GB,50.7,-1,11
+Turkdean,GB,51.9,-1.8,3
+The Grey Dominion,GB,53.7,-0.3,8
+Bourne,GB,52.8,-0.4,8
+Merthyr Tydfil,GB,51.9,-3.4,21
+Enfield,GB,51.7,0,61
+Consett (2),GB,54.8,-1.8,4
+Ferryhill,GB,54.7,-1.5,6
+Blackburn,GB,53.7,-2.5,14
+The Pearl of the Wastes,GB,50.7,-0.1,6
+Hassocks,GB,50.9,-0.2,29
+Tadworth,GB,51.3,-0.2,11
+Pitlochry (3),GB,56.7,-4,1
+New Britannia (8),GB,51.5,0.7,21
+Stirling (3),GB,56.2,-4.1,2
+Fleetwood,GB,53.9,-3,2
+Forsbrook,GB,53,-2.1,15
+Crawley Down,GB,51.1,-0.1,22
+Wolverhampton (2),GB,52.6,-2.1,25
+Okehampton,GB,50.7,-4,2
+New Britannia (16),GB,54.3,-0.2,2
+Chesterfield,GB,53.2,-1.5,3
+Garve (4),GB,57.8,-4.9,1
+Helions Bumpstead,GB,52,0.4,14
+Thorpe-le-Soken,GB,51.9,1.2,22
+Llyn Beirdd,GB,53.5,-4.3,16
+Liverpool (2),GB,53.5,-3,10
+Ór-Thìr,GB,55.4,-5,1
+Overton,GB,53,-2.9,14
+Bangor (2),GB,53.2,-3.9,6
+Belford,GB,55.6,-1.8,5
+Dobshill,GB,53.2,-3,13
+Craigavon,GB,54.5,-6.4,1
+Stonesfield,GB,51.9,-1.4,4
+The New Britannia,GB,52,1.5,7
+Peterborough (2),GB,52.6,-0.1,12
+Hereford,GB,52,-3,4
+Morpeth (2),GB,55.2,-1.6,4
+Isleworth,GB,51.5,-0.3,24
+Dunmow,GB,51.9,0.3,11
+Wolverhampton,GB,52.6,-2.3,15
+Cambridge,GB,52.2,-0.1,9
+Faringdon,GB,51.7,-1.5,9
+Saint Neots,GB,52.2,-0.3,4
+The Glint-ing Haven,GB,57.8,-3.8,2
+Congleton,GB,53.2,-2.2,8
+Winchester,GB,51.1,-1.4,2
+Monmouth,GB,51.9,-2.7,5
+Forsaken Britannia,GB,52.6,1.8,8
+Ipswich (2),GB,52,1.3,8
+Albion,GB,53.7,-3.1,12
+Blockley,GB,52,-1.7,8
+Rugeley,GB,52.8,-2,17
+Cambridge (2),GB,52.2,0.3,20
+Brecon (2),GB,52,-3.2,5
+The Emerald Isle,GB,54.5,-0.6,1
+Amersham,GB,51.7,-0.7,10
+Warlingham,GB,51.3,0,15
+Lochearnhead,GB,56.3,-4.4,2
+Market Rasen,GB,53.4,-0.6,4
+New Britania,GB,55.8,-2,3
+Harrogate,GB,54.1,-1.8,4
+Dollar,GB,56.2,-3.7,4
+York (7),GB,54.3,-0.9,5
+Cailleach,GB,56.7,-2.5,3
+Cirencester,GB,51.7,-2,8
+Rochester,GB,51.5,0.5,13
+Hartshorne,GB,52.8,-1.5,3
+New Britannia (5),GB,51.1,1.4,7
+Emerald Silence,GB,56,-2.1,4
+Spalding (3),GB,52.8,0.2,3
+Duns,GB,55.8,-2.6,12
+New Albion (2),GB,50.5,-2.4,3
+Castlederg (2),GB,54.7,-7.6,3
+New Albion,GB,50,-5.3,5
+Shetland,GB,59.9,-1.3,2
+Bickerstaffe,GB,53.5,-2.8,4
+Aberfeldy (3),GB,56.5,-4.1,2
+Fàsach Thioram,GB,57.7,-6.1,1
+Taynuilt (2),GB,56.5,-5.2,2
+Shrewsbury (2),GB,52.6,-2.7,9
+Kinbrace (4),GB,58.4,-4.1,1
+Harleston,GB,52.4,1.3,7
+Evesham,GB,52,-2,7
+Consett,GB,54.8,-2.1,2
+Dursley,GB,51.7,-2.4,4
+Hook,GB,51.3,-0.9,6
+Newcastle upon Tyne (2),GB,55,-1.7,9
+Axbridge,GB,51.3,-2.8,2
+Braemore,GB,56.5,-2.6,4
+Galashiels,GB,55.6,-2.9,1
+Kingdom of Ashes,GB,50.5,-2,5
+Leicester (2),GB,52.6,-1,1
+Wick (2),GB,58.6,-3.1,1
+Tarporley,GB,53.2,-2.6,4
+Forfar,GB,56.7,-2.9,5
+Banbridge,GB,54.3,-6.3,6
+The Dragonlands,GB,53,-4.7,1
+Emerald Refuge,GB,54.1,-2.9,1
+Ballycastle (2),GB,55.2,-6.2,2
+Hexham (4),GB,55.2,-2.5,3
+Yelverton,GB,50.5,-3.9,1
+Liverpool,GB,53.4,-2.9,6
+Grantham (2),GB,53,-0.6,6
+Còsagach,GB,58,-3.7,1
+The Ghost Coast,GB,53,0.5,4
+Brechin (2),GB,56.9,-3,1
+Snow Haven,GB,60.1,-1.2,2
+Sanctuary of the West,GB,58.6,-4.2,1
+Loch Haven,GB,57.8,-4,3
+Albion Risen,GB,56.5,-6.7,1
+Bruton,GB,51.1,-2.5,2
+Ashbourne,GB,53,-1.6,1
+Biggar (2),GB,55.4,-3.5,1
+Enniskillen (5),GB,54.5,-7.9,1
+Cupar,GB,56.3,-3.1,4
+Barnoldswick,GB,53.9,-2.2,1
+Dungannon,GB,54.5,-7,2
+Marsh Green,GB,50.7,-3.4,1
+Truro,GB,50.2,-5,2
+Leiston,GB,52.2,1.6,5
+Kinbrace (3),GB,58.2,-3.8,1
+Ballater (2),GB,57.1,-3.6,2
+Cookstown,GB,54.7,-6.9,3
+Edinburgh,GB,56,-3.1,3
+Pendoylan,GB,51.5,-3.4,3
+Winchelsea,GB,50.9,0.6,3
+York (5),GB,54.1,-1,1
+Llanwrda,GB,52,-3.9,1
+Dragon's Bay,GB,51.5,-3.8,1
+Carmarthen (3),GB,52,-4.1,1
+Isle of Mull,GB,56.3,-5.9,1
+Garve (2),GB,57.7,-4.8,1
+Emerald Haven,GB,52,-5.2,2
+Grìobag,GB,58.8,-2.8,1
+Torpoint,GB,50.4,-4.2,1
